@@ -33,6 +33,9 @@ _My personal site: [german-sh.ru](https://german-sh.ru/)_
 ---
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
+
 
 
 
