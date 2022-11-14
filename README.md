@@ -1,6 +1,6 @@
 # Hi, my name is **German**!
 
-_I'm a **Web Developer**._
+_I'm a **Game Developer**._
 _My personal site: [german-sh.ru](https://german-sh.ru/)_
 
 ### 💻 Languages and Technologies:
