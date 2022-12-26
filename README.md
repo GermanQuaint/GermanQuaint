@@ -22,9 +22,8 @@ _My personal site: [german-sh.ru](https://german-sh.ru/)_
 ---
 ### 💬 Contacts:
 > **Email**: [hermanquaintit@gmail.com](hermanquaintit@gmail.com) <br>
-> **Telegram**:  [@HermanQuaint](https://t.me/HermanQuaint)<br>
-> **Linkedin**: [linkedin.com/herman-quaint](https://www.linkedin.com/in/herman-quaint-581a951b8/)<br>
-> **Habr Career**: [career.habr.com/hermanquaint](https://career.habr.com/hermanquaint)<br>
+> **Telegram**:  [@GermanQuaint](https://t.me/GermanQuaint)<br>
+> **Linkedin**: [linkedin.com/herman-quaint](www.linkedin.com/in/germansakhno)<br>
 
 
 ---
