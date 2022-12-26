@@ -23,7 +23,7 @@ _My personal site: [german-sh.ru](https://german-sh.ru/)_
 ### 💬 Contacts:
 > **Email**: [hermanquaintit@gmail.com](hermanquaintit@gmail.com) <br>
 > **Telegram**:  [@GermanQuaint](https://t.me/GermanQuaint)<br>
-> **Linkedin**: [linkedin.com/herman-quaint](www.linkedin.com/in/germansakhno)<br>
+> **Linkedin**: [linkedin.com/in/germansakhno](www.linkedin.com/in/germansakhno)<br>
 
 
 ---
