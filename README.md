@@ -1,5 +1,3 @@
-<div align="">
-
 # Hi, my name is **German**!
 
 <!--
@@ -21,7 +19,6 @@ _I'm a **Game Developer**._
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=GermanQuaint&style=flat-square&color=blue" alt=""/>
 
 ### 💻 Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-373f48?style=flat-square&logo=html5&logoColor=E34F26)
@@ -98,4 +95,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <br>
+<img src="https://komarev.com/ghpvc/?username=GermanQuaint&style=flat-square&color=FFC0CB" alt=""/>
 </div>
