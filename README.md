@@ -17,7 +17,8 @@ _My personal site: [german-sh.ru](https://german-sh.ru/)_
 ---
 ### 🛠 Tools:
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-2d333b?style=flat&logo=unrealengine&logoColor=0E1128)
-![Unity](https://img.shields.io/badge/-Unity-2d333b?style=flat&logo=Unity&logoColor=FFFFFF) 
+![Unity](https://img.shields.io/badge/-Unity-2d333b?style=flat&logo=unity&logoColor=FFFFFF)
+![Сonstruct 3](https://img.shields.io/badge/-Сonstruct_3-2d333b?style=flat&logo=construct3&logoColor=00FFDA)
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2d333b?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 ![Figma](https://img.shields.io/badge/-Figma-2d333b?style=flat&logo=figma&logoColor=F24E1E)
