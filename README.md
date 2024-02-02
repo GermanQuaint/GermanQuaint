@@ -65,7 +65,7 @@ _I'm a **Game Developer**._
 [![Twitch](https://img.shields.io/badge/-Twitch-373f48?style=flat-square&logo=twitch&logoColor=9146FF)](#)
 -->
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65bcf7160c548122837e9388?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65bcf7160c548122837e9388?variant=dark&roadmaps=game-developer%2Ccpp%2Cserver-side-game-developer%2Cux-design)](https://roadmap.sh)
 
 <!--
 ---
