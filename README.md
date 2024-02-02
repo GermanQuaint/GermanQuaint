@@ -8,6 +8,7 @@
 _I'm a **Game Developer**._
 <!--_My personal site: [german-sh.ru](https://german-sh.ru/)_-->
 
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/germansakhno/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,6 +64,8 @@ _I'm a **Game Developer**._
 [![Steam](https://img.shields.io/badge/-Steam-373f48?style=flat-square&logo=steam&logoColor=000000)](#)
 [![Twitch](https://img.shields.io/badge/-Twitch-373f48?style=flat-square&logo=twitch&logoColor=9146FF)](#)
 -->
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65bcf7160c548122837e9388?variant=dark)](https://roadmap.sh)
 
 <!--
 ---
